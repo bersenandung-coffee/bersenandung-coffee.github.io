@@ -1134,7 +1134,7 @@ section {
 # Chefs
 --------------------------------------------------------------*/
 .chefs {
-  background: url("../img/chefs-bg.jpg") center center no-repeat;
+  background: url("../img/cheff-bg.jpg") center center no-repeat;
   background-size: cover;
   padding: 60px 0;
   position: relative;
@@ -1540,6 +1540,18 @@ section {
   width: 36px;
   height: 40px;
   transition: 0.3s;
+}
+
+#footer .gojek p {
+  margin-bottom: auto;
+}
+
+#footer .gojek img {
+  border-radius: 50%;
+  width: 80px;
+  height: 50px;
+  margin-bottom: 20px;
+  margin-top: 0;
 }
 
 #footer .social-links a:hover {
